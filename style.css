@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+input{
+    margin: 10px;
+    width: 220px;
+}
+#b_organizar{
+    margin: 10px;
+    display: none;
+}
+#b_enviar{
+    margin: 10px;
+}
+#lista{
+    border: 2px solid green;
+    padding: 10px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+}
